@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router';
-// import axios from 'axios';
+import axios from 'axios';
 import api from '../api';
 
 // const api = axios.create({
